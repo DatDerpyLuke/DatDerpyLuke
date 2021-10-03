@@ -2,7 +2,7 @@
 - I develop games
 - How to reach me lucasknoc8@gmail.com
 ```cs
-if (Lucas == developing)
+if (Lucas == "developing")
 {
   print("Youtube");
 }
